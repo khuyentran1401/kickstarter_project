@@ -3,10 +3,12 @@ Test your judgement by deciding whether a project will reach its goal
 
 ![](project_cs234.gif)
 
-## Background: 
-[Kickstarter](https://www.kickstarter.com/) is an American public benefit corporation that maintains a global crowdfunding platform focused on creativity. 
+## Inspiration
+We often use machine learning to predict the outcome of data. But how the results would be if we make predictions based on limited information without using machine learning? This project aims to answer that question.
 
-As of December 2019, Kickstarter has received more than $4.6 billion in pledges from 17.2 million backers to fund 445,000 projects, such as films, music, stage shows, comics, journalism, video games, technology, publishing, and food-related projects. 
+
+## Background: 
+[Kickstarter](https://www.kickstarter.com/) is an American public benefit corporation that maintains a global crowdfunding platform focused on creativity. Backers can fund projects such as films, music, stage shows, comics, journalism, video games, technology, publishing, and food-related projects. 
 
 People who back Kickstarter projects are offered tangible rewards or experiences in exchange for their pledges.
 
