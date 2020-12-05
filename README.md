@@ -10,3 +10,29 @@ Project creators choose a deadline and a minimum funding goal. If the goal is no
 
 ## Objective: 
 A project can be successful or failed. If the project did not reach its goal by the deadline, it is considered a failed project. In this game, you will use the information provided about a project to decide whether it will be successful or not. You can look up hints that contain the information and outcome of other projects in order to guess the outcome of your chosen project. Have fun!
+
+## Data:
+I pulled the data from [Kickstarter Projects dataset](https://www.kaggle.com/kemical/kickstarter-projects) on Kaggle. The dataset is collected from kickstarter on 2018. 
+
+I removed the rows whose state are not successful or failed.
+
+## Languages used in this project:
+* HTML
+* CSS
+* MySQL
+* PHP
+* Javascript
+* JQuery
+
+## About the files in this project
+* loginForm.php: Login
+* createAccount.php: Sign up
+* landing.php: Introduce the game and ask users to choose a category and a kickstart project
+* game.php: Show the project information and choose number of hints
+* hint.php. Show hints and guess whether the projects will be succesful
+* answer.php: Show result
+* record.php: Show all trials of that user
+
+
+
+
