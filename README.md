@@ -20,9 +20,7 @@ A project can be successful or failed. If the project did not reach its goal by 
 In this game, you will use the information provided about a project to decide whether it will be successful or not. You can look up hints that contain the information and outcome of other projects in order to guess the outcome of your chosen project. 
 
 ## Data:
-I pulled the data from [Kickstarter Projects dataset](https://www.kaggle.com/kemical/kickstarter-projects) on Kaggle. The dataset is collected from kickstarter on 2018. 
-
-I removed the rows whose state are not successful or failed.
+I pulled the data from [Kickstarter Projects dataset](https://www.kaggle.com/kemical/kickstarter-projects) on Kaggle. The dataset is collected from kickstarter on 2018. I removed the rows whose state are not successful or failed.
 
 ## Languages used in this project:
 * HTML
