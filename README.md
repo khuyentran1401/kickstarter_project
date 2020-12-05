@@ -25,6 +25,7 @@ I removed the rows whose state are not successful or failed.
 * JQuery
 
 ## About the files in this project
+* `kickstarter.sql`: Database that contains data on the users, kickstarter projets
 * `loginForm.php`: Login
 * `createAccount.php`: Sign up
 * `landing.php`: Introduce the game and ask users to choose a category and a kickstart project
@@ -33,6 +34,20 @@ I removed the rows whose state are not successful or failed.
 * `answer.php`: Show result
 * `record.php`: Show all trials of that user
 
+## How to run the project
+1. Create a database in MySQL to import the data from `kickstarter.sql` 
+```bash
+mysql -u -username -p password
+```
+```sql
+CREATE DATABASE database_name;
+exit;
+```
+2. Import data from `kickstarter.sql` 
+```bash
+mysql -u username -p password kickstarter < "kickstarter.sql"
+```
+3. Use tools such as [MAMP](https://www.mamp.info) to view the website. If you are using VSCode, use PHP Server extension to view the project on the website
 
 
 
