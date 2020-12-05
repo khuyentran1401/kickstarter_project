@@ -25,13 +25,13 @@ I removed the rows whose state are not successful or failed.
 * JQuery
 
 ## About the files in this project
-* loginForm.php: Login
-* createAccount.php: Sign up
-* landing.php: Introduce the game and ask users to choose a category and a kickstart project
-* game.php: Show the project information and choose number of hints
-* hint.php. Show hints and guess whether the projects will be succesful
-* answer.php: Show result
-* record.php: Show all trials of that user
+* `loginForm.php`: Login
+* `createAccount.php`: Sign up
+* `landing.php`: Introduce the game and ask users to choose a category and a kickstart project
+* `game.php`: Show the project information and choose number of hints
+* `hint.php`: Show hints and guess whether the projects will be succesful
+* `answer.php`: Show result
+* `record.php`: Show all trials of that user
 
 
 
